@@ -1,4 +1,4 @@
-# Mastering RESTful API Connections
+# Mastering PWA Fundamentals
 
 ## Learning Objectives
 
